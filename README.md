@@ -74,3 +74,15 @@ A collection of Data Structures and Algorithms practice problems using C++.
 
 **Tools**
 - Git, GitHub
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=Bijoy-Ahmed-56&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bijoy-Ahmed-56&theme=dark&hide_border=true" width="70%" />
+</p>
+
+
