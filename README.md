@@ -86,3 +86,24 @@ A collection of Data Structures and Algorithms practice problems using C++.
 </p>
 
 
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Bijoy-Ahmed-56">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abbjoy21360@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile! ⭐</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" width="100%" />
+</p>
+
