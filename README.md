@@ -23,6 +23,37 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+A console-based hospital management application developed using C++ and MySQL.
+
+[🔗 View Repository](https://github.com/Bijoy-Ahmed-56/Hospital-Management-System_)
+
+### 🗄️ SQL Course Management
+A database project focused on SQL queries and course management.
+
+[🔗 View Repository](https://github.com/Bijoy-Ahmed-56/SQL_Course_Management)
+
+### 🤖 KNN Project
+A Machine Learning project implementing the K-Nearest Neighbors algorithm.
+
+[🔗 View Repository](https://github.com/Bijoy-Ahmed-56/KNN_Project)
+
+### 🧠 Perceptron Project
+A Machine Learning project implementing the Perceptron algorithm.
+
+[🔗 View Repository](https://github.com/Bijoy-Ahmed-56/Perceptron_Project)
+
+### 📚 DSA Practice
+A collection of Data Structures and Algorithms practice problems using C++.
+
+[🔗 View Repository](https://github.com/Bijoy-Ahmed-56/DSA-Practice)
+
+
 ### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
