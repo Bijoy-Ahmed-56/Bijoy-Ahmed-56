@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Bijoy-Ahmed-56/Bijoy-Ahmed-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Bijoy Ahmed
 
-Here are some ideas to get you started:
+### 💻 Aspiring Software Engineer | Computer Science & Technology Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor's student at **Southwest Petroleum University, China**
+
+---
+
+## 🚀 About Me
+
+- 💡 Interested in Software Engineering and Machine Learning.
+- 🔨 Enjoy building practical software projects.
+- 🎯 Goal: Become a Professional Software Engineer.
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- C++, Java, Python
+
+**Database**
+- MySQL, SQL
+
+**Core Concepts**
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+
+**Tools**
+- Git, GitHub
