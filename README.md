@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Bijoy%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=160&section=header&text=Bijoy%20Ahmed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
