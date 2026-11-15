@@ -25,6 +25,16 @@
 
 
 ---
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Management
 
 ## 🚀 Featured Projects
 
@@ -53,28 +63,12 @@ A collection of Data Structures and Algorithms practice problems using C++.
 
 [🔗 View Repository](https://github.com/Bijoy-Ahmed-56/DSA-Practice)
 
-
-### Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Management
-
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
-**Tools**
-- Git, GitHub
-  
 ## 🤝 Connect With Me
 
 <p align="center">
