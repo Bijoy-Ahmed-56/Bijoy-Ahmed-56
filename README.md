@@ -126,7 +126,7 @@ A database-focused project demonstrating SQL queries and database management con
 🔗 [View Repository](https://github.com/Bijoy-Ahmed-56/SQL_Course_Management)
 
 ### 6. Data Structures and Algorithms Practice
-**Technologies:** C++
+**Technologies:** C++  Java
 
 A collection of programming exercises and implementations focused on Data Structures and Algorithms.
 
@@ -134,6 +134,7 @@ A collection of programming exercises and implementations focused on Data Struct
 - Hashing
 - STL
 - Problem Solving
+- Linked list
 
 🔗 [View Repository](https://github.com/Bijoy-Ahmed-56/DSA-Practice)
 
