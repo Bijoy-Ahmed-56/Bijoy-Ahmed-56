@@ -134,7 +134,8 @@ A collection of programming exercises and implementations focused on Data Struct
 - Hashing
 - STL
 - Problem Solving
-- Linked list
+- Java Dsa
+- Java OOP
 
 🔗 [View Repository](https://github.com/Bijoy-Ahmed-56/DSA-Practice)
 
